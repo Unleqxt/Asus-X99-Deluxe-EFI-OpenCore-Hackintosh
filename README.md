@@ -1,6 +1,6 @@
 # Asus-X99-Deluxe-EFI-OpenCore-Hackintosh
 
-<img width="1080" height="675" alt="grafik" src="https://github.com/user-attachments/assets/c1ff1427-93e5-44fa-9379-03506a0abba1" />
+<img width="1080" height="675" alt="473776487-c1ff1427-93e5-44fa-9379-03506a0abba1" src="https://github.com/user-attachments/assets/3fdac5aa-ab56-404a-9d48-2b9d2e2ebe55" />
 
 
 ## Specs:
@@ -25,6 +25,7 @@
 ### Working:
 Airdrop, iservices, wlan, bluetooth, almost everything else
 ### Not Working:
+
 Sleep (only works like 70% of the time, probably due to usb map), CPU is spoofed wrong (didn't want to deal with it -> registered as 14 Core Xeon-W, but doesn't have a performance impact), Freezes sometimes on boot -> just reset it and on the next boot it almost always works
 
 
